@@ -1,0 +1,139 @@
+body{
+    margin:0px;
+    padding:0px;
+    border:solid;
+}
+
+
+h1{
+    font-size: 5em;
+    color: #ffffff;
+    font-family: "Yeseva One";
+    font-weight: 400;
+    text-align: center;
+}
+
+.promo{
+    background: url('assets/PROMO_BG.png');
+    background-size: cover;
+    background-position: center;
+    width:100%;
+    height: 750px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;  
+}
+.promoDivider{
+    margin:50px;
+    margin-top:-200px;
+}
+.BOUTON_PROMO{
+    margin:auto;
+}
+.BOUTON_PROMO{
+    margin-top:-200px;
+}
+.promoBouton{
+    margin:30px;
+}
+/***-------------------------------*/
+.ABOUT{
+    background: url('assets/ABOUT_patternBG.png');
+    background-size: cover;
+    background-position: center;
+    height: 710px;    
+}
+
+
+.titreABOUT{
+    font-size: 2em;
+    line-height: 24px;
+    color: #d4c600;
+    font-family: "Lato";
+    font-weight: 400;
+    margin:50px;
+}
+
+.CGAUCHE{
+    text-align: center;
+    margin-top:100px;
+}
+
+ 
+
+.CGAUCHE p{
+    width:50%;
+    margin:25px;
+    margin-left:150px;
+    text-align:center;  
+}  
+
+.assiette{
+    margin-top:100px;
+}
+.col-md-6{
+    margin:0px;
+    padding: 0px;
+
+}
+
+
+.navbar{
+    background-color:rgba(255, 255, 255, 0)
+}
+
+.INGREDIENTS{
+    background: url('assets/INGREDIENTS_BG.png');
+    background-size: cover;
+    background-position: center;
+    height: 758px;
+    
+}
+.BlockDroite{
+    background-color: rgba(0, 0, 0, 0.5);
+    height: 600px;
+    width: 600px;
+    margin-top:100px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+
+
+}
+
+.INGREDIENTS h2{
+    color:white;
+    font-family: "Lato";
+    font-weight: 400;
+    text-align: center;
+    margin:50px;
+    padding-top:50px;
+}
+
+.ING_divider{
+
+
+
+
+}
+.INGREDIENTS p{ 
+    color:white;
+    margin-left:10%;
+    margin-right:10%;
+    margin:50px;
+
+}
+
+
+.epices img{
+    margin:25px;
+}
+/*
+.epices{
+    display: flex;
+    justify-content: center;
+
+*/
+
+
+
